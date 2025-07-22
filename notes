@@ -1,0 +1,37 @@
+Item (Ac/CCTV/Fire Extingusher /TV/WIFI/)
+unit (AC : wallmounted/caset / CCTV : DOM...)
+brand(panasonic,samsung)
+model()
+Capacity(AC/CCTV/FE)
+branch name (Little Caliph Seksyen 7)
+branch address (No 1 Jalan Pualam )
+location_desc (Level G Room AC1)
+Install Date
+Warranty Date
+Contractor name
+Last Service Date
+Incoming Service Date
+Service Type (Minor/Major)
+
+Reports
+Item (Ac/CCTV/Fire/TV/WIFI/)
+unit (AC : wallmounted/caset / CCTV : DOM...)
+brand(pan,sam)
+model()
+Capacity(AC/CCTV/FE)
+branch name (LCS7)
+branch address (No 1 Jalan )
+location_desc (Bilik bawah AC1)
+Last Service Date
+Incoming Service Date
+Service Type (Minor/Major)
+
+Dashboard
+card => Unit, Report, Branch
+statistic report for 6 month
+Card with button List of :
+Unit, branch address, contractor and so on
+
+
+##reports-form
+add on remarks
